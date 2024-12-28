@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Connect With Me
 
-- 📫 You can reach me via email at [sr.rawat459@gmail.com](mailto:sr.rawat459@gmail.com)
+- 📫 You can reach me via email at [sr.rawat450@gmail.com](mailto:sr.rawat450@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/-sandeep-rawat)
 
 ### Projects
@@ -28,7 +28,7 @@ Here are some of the projects I'm proud of:
 
 ### Fun Fact
 
-- 🎮 I love playing video games and solving puzzles in my leisure time.
+- 🎮 I love reading books and web novels in my leisure time.
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
 
