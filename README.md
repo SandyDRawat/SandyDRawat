@@ -19,16 +19,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Connect With Me
 
-- 📫 You can reach me via email at [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sandydrawat)
+- 📫 You can reach me via email at [sr.rawat459@gmail.com](mailto:sr.rawat459@gmail.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/-sandeep-rawat)
 
 ### Projects
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](https://github.com/SandyDRawat/project1): Brief description of Project 1.
-- [Project 2](https://github.com/SandyDRawat/project2): Brief description of Project 2.
-- [Project 3](https://github.com/SandyDRawat/project3): Brief description of Project 3.
+- [Project 1]([Novel Automation and Translation Tool](https://github.com/SandyDRawat/Novel_Automation)): Brief description of Project 1.
+- [Project 2]([Market Sentiment Anslysis Tool](https://github.com/SandyDRawat/Market_sentiment_analysis)): Brief description of Project 2.
+- [Project 3]([Algo Trading Simulator](https://github.com/SandyDRawat/Algo_trader)): Brief description of Project 3.
 
 ### Blog Posts
 
