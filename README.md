@@ -1,4 +1,4 @@
-# Hi there, I'm Sandy Rawat 👋
+# Hi there, I'm Sandeep Rawat 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning and it's practical applications, open-source contributions, and continuous learning.
 
