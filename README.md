@@ -1,10 +1,10 @@
 # Hi there, I'm Sandy Rawat 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and continuous learning.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning and it's practical applications, open-source contributions, and continuous learning.
 
 ### About Me
 
-- 💻 I specialize in **JavaScript**, **React**, **Node.js**, and **Python**.
+- 💻 I specialize in **Python**.
 - 🌱 Currently, I'm learning more about **machine learning** and **data science**.
 - 🛠️ I love working on innovative projects and contributing to open-source communities.
 - 🌐 In my free time, I enjoy exploring new technologies and enhancing my skills.
