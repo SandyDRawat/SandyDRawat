@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Here are some of the projects I'm proud of:
 
+- [Model Finetuning](https://github.com/SandyDRawat/Self_Projects/tree/main/Model_finetuning): In this project, we fine-tuned a llama 3.2 model using Unsloth for translation purposes.
 - [Novel Automation and Translation Tool](https://github.com/SandyDRawat/Novel_Automation): A tool that automates the extraction of novels and uses a fine-tuned model for translation.
 - [Market Sentiment Analysis Tool](https://github.com/SandyDRawat/Market_sentiment_analysis): Analyzes market news by sentiment analysis to filter out impactful news to assist in trading.
 - [Algo Trading Simulator](https://github.com/SandyDRawat/Algo_trader): Simulates a live-like trading setup to practice trading on historical data and backtest strategies on previous data.
