@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💻 I specialize in **Python**.
 - 🌱 Currently, I'm learning more about **machine learning** and **data science**.
 - 🛠️ I love working on innovative projects and contributing to open-source communities.
-- 🌐 In my free time, I enjoy exploring new technologies and enhancing my skills.
+- 🌐 In my free time, I enjoy listening to audiobooks.
 
 ### Top Languages
 
