@@ -1,38 +1,50 @@
-# Hi there, I'm Sandeep Rawat 👋
+# Hey, I'm Sandeep Rawat
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning and it's practical applications, open-source contributions, and continuous learning.
+**Full-Stack AI Engineer** at **PowersMyBiz** — building production AI systems that actually ship.
 
-### About Me
-
-- 💻 I specialize in **Python**.
-- 🌱 Currently, I'm learning more about **machine learning** and **data science**.
-- 🛠️ I love working on innovative projects and contributing to open-source communities.
-- 🌐 In my free time, I enjoy listening to audiobooks.
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyDRawat&layout=compact&theme=radical)
-
-### Connect With Me
-
-- 📫 You can reach me via email at [sr.rawat450@gmail.com](mailto:sr.rawat450@gmail.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/-sandeep-rawat)
-
-### Projects
-
-Here are some of the projects I'm proud of:
-
-- [Model Finetuning](https://github.com/SandyDRawat/Self_Projects/tree/main/Model_finetuning): In this project, we fine-tuned a llama 3.2 model using Unsloth for translation purposes.
-- [Novel Automation and Translation Tool](https://github.com/SandyDRawat/Novel_Automation): A tool that automates the extraction of novels and uses a fine-tuned model for translation.
-- [Market Sentiment Analysis Tool](https://github.com/SandyDRawat/Market_sentiment_analysis): Analyzes market news by sentiment analysis to filter out impactful news to assist in trading.
-- [Algo Trading Simulator](https://github.com/SandyDRawat/Algo_trader): Simulates a live-like trading setup to practice trading on historical data and backtest strategies on previous data.
-
-### Fun Fact
-
-- 🎮 I love reading books and web novels in my leisure time.
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
+I design and deploy voice agents, AI chatbots, workflow automation, and EdTech platforms across **[TwoSigmaLabs](https://github.com/TwoSigmaLabs)** and **[PupilTree](https://github.com/pupiltree)**.
 
 ---
 
-⭐️ From [SandyDRawat](https://github.com/SandyDRawat)
+### What I Build
+
+**AI Voice Agents** — Production voice agents using LiveKit, Twilio, and Gemini for clients across industries — from bus booking to property tax to medical diagnostics.
+
+**AI Chatbots & Automation** — End-to-end conversational AI systems with configurable templates, LangChain integrations, and automated client onboarding workflows.
+
+**EdTech (PupilTree)** — Co-building an AI-native K-12 education platform — adaptive tutoring, intelligent assessments, a game engine with AI-generated assets, and SmartPlaybook analytics.
+
+**AI Video & Content** — Automated video generation pipelines and AI-powered content workflows.
+
+---
+
+### Tech I Work With
+
+`Python` `TypeScript` `FastAPI` `LiveKit` `LangChain` `Claude API` `Twilio` `Flutter/Dart` `Next.js` `PostgreSQL` `Docker`
+
+---
+
+### Selected Open Source
+
+| Project | What it does |
+|---------|-------------|
+| [**fika-langwatch**](https://github.com/pupiltree/fika-langwatch) | LangChain wrapper with automatic fallback & alert notifications on API key failures |
+| [**Algo Trader**](https://github.com/SandyDRawat/Algo_trader) | Live-like trading simulator for backtesting strategies on historical data |
+| [**Market Sentiment Analysis**](https://github.com/SandyDRawat/Market_sentiment_analysis) | Filters impactful market news using sentiment analysis to assist trading |
+| [**OCR FastAPI**](https://github.com/SandyDRawat/ocr-fastapi) | OCR-as-a-service API built with FastAPI |
+| [**Novel Automation**](https://github.com/SandyDRawat/Novel_Automation) | Automated novel extraction + translation using fine-tuned LLaMA 3.2 |
+
+---
+
+### By the Numbers
+
+- **60+** repositories across 2 orgs and personal projects
+- **20+** production AI agents deployed for real clients
+- Building across **voice, chat, video, and education** verticals
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-sandeep-rawat)
+[![Email](https://img.shields.io/badge/Email-sr.rawat450@gmail.com-red?style=flat&logo=gmail)](mailto:sr.rawat450@gmail.com)
