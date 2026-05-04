@@ -45,15 +45,6 @@ AI chatbots and workflow automation, and AI video generation pipelines.
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SandyDRawat&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="Sandeep's GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SandyDRawat&theme=tokyonight" alt="Sandeep's GitHub streak" />
-</p>
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-sandeep-rawat)
