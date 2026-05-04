@@ -28,15 +28,9 @@ The Tech-Lead-and-PM blend means I write the PRDs, break work into phases, own a
 
 ---
 
-### Also
-
-AI chatbots and workflow automation, and AI video generation pipelines.
-
----
-
 ### Tech I Work With
 
-`Python` `TypeScript` `FastAPI` `LiveKit` `Twilio` `LangChain` `Claude API` `Gemini` `Flutter/Dart` `Next.js` `MongoDB` `PostgreSQL` `Docker` `GCP`
+`Python` `TypeScript` `FastAPI` `LiveKit` `LangChain` `Claude API` `Gemini` `Flutter/Dart` `Next.js` `MongoDB` `PostgreSQL` `Docker` `GCP`
 
 ---
 
