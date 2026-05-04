@@ -8,12 +8,7 @@ I lead **AI voice agents** and **EdTech** product work across **[TwoSigmaLabs](h
 
 ### AI Voice Agents
 
-Production voice agents handling real customer traffic — built on **LiveKit**, **Twilio**, and **Gemini Live**.
-
-- **Bus booking** — natural-language ticket booking and itinerary changes
-- **Property tax** — citizen support and payment workflows
-- **Medical diagnostics** — patient intake and triage assistants
-- **Education tutoring** — live AI tutors as part of the PupilTree stack, running multiple LiveKit instances in parallel
+**PupilTutor** — live AI tutors for K-12 learners, built on **LiveKit** and **Gemini Live**. Multiple tutoring sessions run in parallel as part of the PupilTree stack, with conversation flows tuned for pedagogy: scaffolded questioning, mistake recovery, and Socratic dialogue rather than answer-dumping.
 
 I own the spec, the conversation design, the LLM and router choices, and the deployment lifecycle on top of LiveKit's WebRTC stack.
 
