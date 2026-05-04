@@ -2,42 +2,55 @@
 
 **Product Manager and Tech Lead** at **PowersMyBiz** — building production AI systems that actually ship.
 
-I design and deploy voice agents, AI chatbots, workflow automation, and EdTech platforms across **[TwoSigmaLabs](https://github.com/TwoSigmaLabs)** and **[PupilTree](https://github.com/pupiltree)**.
+I lead **AI voice agents** and **EdTech** product work across **[TwoSigmaLabs](https://github.com/TwoSigmaLabs)** and **[PupilTree](https://github.com/pupiltree)**, taking products from spec to deployed and paying.
 
 ---
 
-### What I Build
+### AI Voice Agents
 
-**AI Voice Agents** — Production voice agents using LiveKit, Twilio, and Gemini for clients across industries — from bus booking to property tax to medical diagnostics.
+Production voice agents handling real customer traffic — built on **LiveKit**, **Twilio**, and **Gemini Live**.
 
-**AI Chatbots & Automation** — End-to-end conversational AI systems with configurable templates, LangChain integrations, and automated client onboarding workflows.
+- **Bus booking** — natural-language ticket booking and itinerary changes
+- **Property tax** — citizen support and payment workflows
+- **Medical diagnostics** — patient intake and triage assistants
+- **Education tutoring** — live AI tutors as part of the PupilTree stack, running multiple LiveKit instances in parallel
 
-**EdTech (PupilTree)** — Co-building an AI-native K-12 education platform — adaptive tutoring, intelligent assessments, a game engine with AI-generated assets, and SmartPlaybook analytics.
+I own the spec, the conversation design, the LLM and router choices, and the deployment lifecycle on top of LiveKit's WebRTC stack.
 
-**AI Video & Content** — Automated video generation pipelines and AI-powered content workflows.
+---
+
+### EdTech — PupilTree
+
+Co-building an AI-native K-12 education platform end-to-end:
+
+- **Adaptive tutoring** with multi-step reasoning and Socratic dialogue
+- **Intelligent assessments** that diagnose conceptual gaps, not just track answers
+- **Game engine** with AI-generated assets — images via Replicate and lesson scripts powered by a native-cache pipeline for at-scale content production
+- **SmartPlaybook analytics** for teachers — engagement, mastery curves, intervention triggers
+- **AI gateway** — self-hosted Bifrost gateway routing all model traffic with cost tracking and provider failover
+
+The Tech-Lead-and-PM blend means I write the PRDs, break work into phases, own architecture decisions (gateway choice, cache strategy, region split), and keep shipping cadence aligned with quality.
+
+---
+
+### Also
+
+AI chatbots and workflow automation, and AI video generation pipelines.
 
 ---
 
 ### Tech I Work With
 
-`Python` `TypeScript` `FastAPI` `LiveKit` `LangChain` `Claude API` `Twilio` `Flutter/Dart` `Next.js` `PostgreSQL` `Docker`
+`Python` `TypeScript` `FastAPI` `LiveKit` `Twilio` `LangChain` `Claude API` `Gemini` `Flutter/Dart` `Next.js` `MongoDB` `PostgreSQL` `Docker` `GCP`
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandyDRawat&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="Sandeep's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandyDRawat&theme=tokyonight" alt="Sandeep's GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SandyDRawat&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="Sandeep's GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SandyDRawat&theme=tokyonight" alt="Sandeep's GitHub streak" />
 </p>
-
----
-
-### By the Numbers
-
-- **60+** repositories across 2 orgs
-- **20+** production AI agents deployed for real clients
-- Building across **voice, chat, video, and education** verticals
 
 ---
 
