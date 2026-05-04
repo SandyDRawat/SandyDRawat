@@ -1,6 +1,6 @@
 # Hey, I'm Sandeep Rawat
 
-**Full-Stack AI Engineer** at **PowersMyBiz** — building production AI systems that actually ship.
+**Product Manager and Tech Lead** at **PowersMyBiz** — building production AI systems that actually ship.
 
 I design and deploy voice agents, AI chatbots, workflow automation, and EdTech platforms across **[TwoSigmaLabs](https://github.com/TwoSigmaLabs)** and **[PupilTree](https://github.com/pupiltree)**.
 
@@ -24,21 +24,18 @@ I design and deploy voice agents, AI chatbots, workflow automation, and EdTech p
 
 ---
 
-### Selected Open Source
+### GitHub Activity
 
-| Project | What it does |
-|---------|-------------|
-| [**fika-langwatch**](https://github.com/pupiltree/fika-langwatch) | LangChain wrapper with automatic fallback & alert notifications on API key failures |
-| [**Algo Trader**](https://github.com/SandyDRawat/Algo_trader) | Live-like trading simulator for backtesting strategies on historical data |
-| [**Market Sentiment Analysis**](https://github.com/SandyDRawat/Market_sentiment_analysis) | Filters impactful market news using sentiment analysis to assist trading |
-| [**OCR FastAPI**](https://github.com/SandyDRawat/ocr-fastapi) | OCR-as-a-service API built with FastAPI |
-| [**Novel Automation**](https://github.com/SandyDRawat/Novel_Automation) | Automated novel extraction + translation using fine-tuned LLaMA 3.2 |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandyDRawat&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="Sandeep's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandyDRawat&theme=tokyonight" alt="Sandeep's GitHub streak" />
+</p>
 
 ---
 
 ### By the Numbers
 
-- **60+** repositories across 2 orgs and personal projects
+- **60+** repositories across 2 orgs
 - **20+** production AI agents deployed for real clients
 - Building across **voice, chat, video, and education** verticals
 
