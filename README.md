@@ -34,6 +34,14 @@ The Tech-Lead-and-PM blend means I write the PRDs, break work into phases, own a
 
 ---
 
+### Activity
+
+[![Streak](https://streak-stats.demolab.com?user=SandyDRawat&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandyDRawat&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-sandeep-rawat)
